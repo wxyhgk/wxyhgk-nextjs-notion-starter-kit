@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '我心永恒的小站',
-  domain: 'https://scandalous-draw-945.notion.site/Blog-Notion-89abd385725e427ba86f8dd6380d5ffc',
+  domain: 'https://wxyhgk.notion.site/89abd385725e427ba86f8dd6380d5ffc',
   author: '我心永恒',
 
   // open graph metadata (optional)
